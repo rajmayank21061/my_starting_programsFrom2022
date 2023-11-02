@@ -1,0 +1,29 @@
+{
+	"folders": [
+		{
+			"name": "my_fresher_cpp_programs",
+			"path": ".."
+		},
+		{
+			"name": "ps",
+			"path": "../../ps"
+		},
+		{
+			"name": "web",
+			"path": "../../web"
+		},
+		{
+			"name": "Bootstrap",
+			"path": "../../../Bootstrap"
+		},
+		{
+			"path": "../../../Digital"
+		},
+		{
+			"path": "../../basicweb"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "basicweb"
+	}
+}
