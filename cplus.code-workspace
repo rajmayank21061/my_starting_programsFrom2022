@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "C:/Users/manis/OneDrive/Documents/web"
+		},
+		{
+			"path": "C:/Users/manis/OneDrive/Documents/for ja"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "web"
+	}
+}
