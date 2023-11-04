@@ -1,5 +1,5 @@
 #include<iostream>
-#include<limits.h> //climits
+#include<limits.h> //climit
 using namespace std;
 bool serchar(int arr1[],int size,int input)
 {
