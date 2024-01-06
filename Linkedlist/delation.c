@@ -20,7 +20,7 @@ void linked_list_traversal( struct Node *ptr)
 
 // Case 1: Deleting the first element from the linked list
 struct Node * deleteFirst(struct Node * head){
-    struct Node * newnode = head;
+    struct Node *newnode = head;
     head = head->next;
     free(newnode);
     return head;
